@@ -1,13 +1,6 @@
 package trab1;
 
 
-/**
- *
- * @author José Nuno Marinho Carvalho a48542 Engenharia Informática
- *         Herculano Jacob Kapaia Taca a48534 Engenharia Informática
- * 
- */
-
 import java.util.ArrayDeque;
 
 import java.util.Deque;
@@ -16,10 +9,7 @@ import java.util.Deque;
 
 Esta classe representa um inteiro não-negativo até 50 digítos.
 
-@author [nome do autor]
 
-@version [versão do programa]
-*/
 public class CryptoInt {
 // constante para o tamanho máximo de dígitos permitidos
 private static final int MAX_SIZE = 50;
